@@ -48,7 +48,7 @@ WEB ULTAH by FAJAR
          <img src="https://feeldreams.github.io/pusn.gif" id="fotostiker1"/>
          <img src="https://feeldreams.github.io/pandacoklat.gif" id="fotostiker2"/>
          <img src="https://feeldreams.github.io/cilukba.gif" id="fotostiker3"/>
-<!WEB ULTAH by FAJAR>
+<!DOCTYPE html>
 <html lang="id">
 <meta charset='UTF-8'/><meta content='width=device-width, initial-scale=1, user-scalable=1, minimum-scale=1, maximum-scale=5' name='viewport'/><meta content='IE=edge' http-equiv='X-UA-Compatible'/>
   
